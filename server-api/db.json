@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "d2b2e47d-1e87-4b11-be48-3fe0b945a259",
+      "name": "Syed Shah Hassan",
+      "email": "shahhassan@folio3.com"
+    },
+    {
+      "id": "085a2d1f-c45d-46d7-b315-efeeaf34dd87",
+      "name": "offline",
+      "email": "shahhassan@folio3.com"
+    },
+    {
+      "id": "67f730b6-adbb-44d0-b0e0-f093f78a9c88",
+      "name": "offline1",
+      "email": "shahhassan@folio3.com"
+    }
+  ]
+}
