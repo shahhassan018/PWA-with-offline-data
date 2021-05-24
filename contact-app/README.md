@@ -14,6 +14,8 @@ After clone this project, Follow the following steps,
 
 ### `npm start
 
+### open new tab and run http://localhost:3006/contacts for DB records
+
 3. For run this on seperate PWA app
 
 ### `npm run build
